@@ -47,4 +47,4 @@ https://www.loom.com/share/b073ffd19f434604a646d57ff07b1f72
 ## Author
 
 [Shubh Shah]  
-[Optional: shubhshah453@gmail.com]
+[shubhshah453@gmail.com]
