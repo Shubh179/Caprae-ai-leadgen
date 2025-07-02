@@ -46,5 +46,5 @@ https://www.loom.com/share/b073ffd19f434604a646d57ff07b1f72
 
 ## Author
 
-[Your Name]  
-[Optional: LinkedIn profile or email address]
+[Shubh Shah]  
+[Optional: shubhshah453@gmail.com]
